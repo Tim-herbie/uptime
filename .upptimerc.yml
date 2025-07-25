@@ -9,6 +9,8 @@ sites:
     url: https://keycloak.timherbert.de
   - name: Saturn-Filmfreunde
     url: https://saturn-filmfreunde.de
+  - name: Bernd-Herbert
+    url: https://bernd-herbert.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
