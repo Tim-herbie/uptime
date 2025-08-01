@@ -4,18 +4,20 @@
     "url": "https://opencloud.timherbert.de",
     "icon": "https://icons.duckduckgo.com/ip3/opencloud.timherbert.de.ico",
     "slug": "opencloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 872,
-    "timeDay": 858,
-    "timeWeek": 871,
-    "timeMonth": 872,
-    "timeYear": 872,
-    "dailyMinutesDown": {}
+    "time": 845,
+    "timeDay": 717,
+    "timeWeek": 838,
+    "timeMonth": 845,
+    "timeYear": 845,
+    "dailyMinutesDown": {
+      "2025-08-01": 0
+    }
   },
   {
     "name": "Keycloak",
