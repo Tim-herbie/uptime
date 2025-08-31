@@ -1,7 +1,7 @@
 url: https://opencloud.timherbert.de
-status: down
-code: 503
-responseTime: 608
-lastUpdated: 2025-08-31T19:42:30.704Z
+status: up
+code: 200
+responseTime: 935
+lastUpdated: 2025-08-31T19:49:28.535Z
 startTime: 2025-07-24T09:25:12.632Z
 generator: Upptime <https://github.com/upptime/upptime>
