@@ -1,7 +1,7 @@
 url: https://saturn-filmfreunde.de
-status: up
-code: 200
-responseTime: 23213
-lastUpdated: 2025-10-01T07:29:35.193Z
+status: down
+code: 503
+responseTime: 704
+lastUpdated: 2025-10-01T07:46:26.764Z
 startTime: 2025-07-24T09:25:15.566Z
 generator: Upptime <https://github.com/upptime/upptime>
