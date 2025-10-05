@@ -6,6 +6,8 @@ assignees:
   - Tim-herbie
 
 sites:
+  - name: Blog
+    url: https://blog.cloud.timherbert.de
   - name: Opencloud
     url: https://opencloud.timherbert.de
   - name: Keycloak
