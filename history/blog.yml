@@ -1,7 +1,7 @@
 url: https://blog.timherbert.de
-status: up
-code: 200
-responseTime: 2361
-lastUpdated: 2025-11-12T23:21:06.228Z
+status: down
+code: 503
+responseTime: 580
+lastUpdated: 2025-11-13T08:43:09.387Z
 startTime: 2025-10-05T08:37:58.247Z
 generator: Upptime <https://github.com/upptime/upptime>
