@@ -1,7 +1,7 @@
 url: https://keycloak.timherbert.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-01T20:56:52.555Z
+status: up
+code: 200
+responseTime: 995
+lastUpdated: 2026-02-01T21:03:40.046Z
 startTime: 2025-07-24T09:25:14.041Z
 generator: Upptime <https://github.com/upptime/upptime>
