@@ -64,9 +64,9 @@
     "url": "https://keycloak.timherbert.de",
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.timherbert.de.ico",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.48%",
@@ -97,7 +97,8 @@
       "2026-03-17": 22,
       "2026-03-27": 17,
       "2026-04-16": 34,
-      "2026-05-05": 54
+      "2026-05-05": 54,
+      "2026-06-18": 0
     }
   },
   {
