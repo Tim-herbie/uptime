@@ -106,17 +106,17 @@
     "url": "https://saturn-filmfreunde.de",
     "icon": "https://icons.duckduckgo.com/ip3/saturn-filmfreunde.de.ico",
     "slug": "saturn-filmfreunde",
-    "status": "up",
-    "uptime": "95.52%",
-    "uptimeDay": "94.77%",
+    "status": "down",
+    "uptime": "95.53%",
+    "uptimeDay": "94.75%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "95.52%",
-    "time": 1889,
-    "timeDay": 991,
-    "timeWeek": 1052,
-    "timeMonth": 1186,
-    "timeYear": 1889,
+    "uptimeYear": "95.53%",
+    "time": 1886,
+    "timeDay": 937,
+    "timeWeek": 1020,
+    "timeMonth": 1171,
+    "timeYear": 1886,
     "dailyMinutesDown": {
       "2025-08-23": 535,
       "2025-08-22": 1440,
@@ -156,7 +156,8 @@
       "2026-04-16": 34,
       "2026-04-30": 70,
       "2026-05-05": 20,
-      "2026-06-21": 75
+      "2026-06-21": 75,
+      "2026-06-22": 0
     }
   },
   {
