@@ -4,10 +4,10 @@
     "url": "https://opencloud.timherbert.de",
     "icon": "https://icons.duckduckgo.com/ip3/opencloud.timherbert.de.ico",
     "slug": "opencloud",
-    "status": "up",
+    "status": "down",
     "uptime": "97.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.97%",
     "time": 926,
@@ -56,7 +56,8 @@
       "2026-04-16": 34,
       "2026-04-22": 21,
       "2026-04-23": 20,
-      "2026-05-05": 54
+      "2026-05-05": 54,
+      "2026-07-30": 1
     }
   },
   {
@@ -64,10 +65,10 @@
     "url": "https://keycloak.timherbert.de",
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.timherbert.de.ico",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.62%",
     "time": 1184,
@@ -98,7 +99,8 @@
       "2026-03-27": 17,
       "2026-04-16": 34,
       "2026-05-05": 54,
-      "2026-06-18": 52
+      "2026-06-18": 52,
+      "2026-07-30": 1
     }
   },
   {
@@ -106,17 +108,17 @@
     "url": "https://saturn-filmfreunde.de",
     "icon": "https://icons.duckduckgo.com/ip3/saturn-filmfreunde.de.ico",
     "slug": "saturn-filmfreunde",
-    "status": "up",
-    "uptime": "94.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "94.81%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.72%",
-    "time": 1857,
-    "timeDay": 931,
-    "timeWeek": 1284,
-    "timeMonth": 1128,
-    "timeYear": 1863,
+    "time": 1854,
+    "timeDay": 744,
+    "timeWeek": 1193,
+    "timeMonth": 1109,
+    "timeYear": 1861,
     "dailyMinutesDown": {
       "2025-08-23": 535,
       "2025-08-22": 1440,
@@ -163,7 +165,8 @@
       "2026-06-22": 643,
       "2026-06-28": 533,
       "2026-06-27": 1440,
-      "2026-06-26": 277
+      "2026-06-26": 277,
+      "2026-07-30": 1
     }
   },
   {
@@ -171,17 +174,17 @@
     "url": "https://bernd-herbert.de",
     "icon": "https://icons.duckduckgo.com/ip3/bernd-herbert.de.ico",
     "slug": "bernd-herbert",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.94%",
-    "time": 1118,
-    "timeDay": 688,
-    "timeWeek": 926,
-    "timeMonth": 825,
-    "timeYear": 1123,
+    "time": 1117,
+    "timeDay": 631,
+    "timeWeek": 882,
+    "timeMonth": 817,
+    "timeYear": 1122,
     "dailyMinutesDown": {
       "2025-09-30": 1188,
       "2025-09-29": 968,
@@ -199,7 +202,8 @@
       "2026-02-18": 691,
       "2026-03-25": 23,
       "2026-04-16": 34,
-      "2026-05-05": 19
+      "2026-05-05": 19,
+      "2026-07-30": 1
     }
   },
   {
@@ -207,17 +211,19 @@
     "url": "https://berndherbert.de",
     "icon": "https://icons.duckduckgo.com/ip3/berndherbert.de.ico",
     "slug": "bernd-herbert2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 811,
-    "timeDay": 685,
-    "timeWeek": 931,
-    "timeMonth": 782,
-    "timeYear": 811,
-    "dailyMinutesDown": {}
+    "time": 893,
+    "timeDay": 4317,
+    "timeWeek": 1809,
+    "timeMonth": 1021,
+    "timeYear": 893,
+    "dailyMinutesDown": {
+      "2026-07-30": 0
+    }
   }
 ]
