@@ -4,17 +4,17 @@
     "url": "https://opencloud.timherbert.de",
     "icon": "https://icons.duckduckgo.com/ip3/opencloud.timherbert.de.ico",
     "slug": "opencloud",
-    "status": "down",
+    "status": "up",
     "uptime": "97.19%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "97.16%",
-    "time": 925,
-    "timeDay": 1721,
-    "timeWeek": 1207,
-    "timeMonth": 871,
-    "timeYear": 925,
+    "time": 924,
+    "timeDay": 1468,
+    "timeWeek": 1139,
+    "timeMonth": 859,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2025-08-23": 18,
       "2025-08-29": 1159,
@@ -55,7 +55,7 @@
       "2026-04-23": 20,
       "2026-05-05": 54,
       "2026-07-30": 40,
-      "2026-08-22": 16
+      "2026-08-22": 32
     }
   },
   {
