@@ -4,16 +4,16 @@
     "url": "https://opencloud.timherbert.de",
     "icon": "https://icons.duckduckgo.com/ip3/opencloud.timherbert.de.ico",
     "slug": "opencloud",
-    "status": "down",
-    "uptime": "97.38%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.47%",
+    "status": "up",
+    "uptime": "97.35%",
+    "uptimeDay": "86.44%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "98.44%",
     "time": 918,
-    "timeDay": 3170,
-    "timeWeek": 1391,
-    "timeMonth": 986,
+    "timeDay": 2354,
+    "timeWeek": 1316,
+    "timeMonth": 977,
     "timeYear": 910,
     "dailyMinutesDown": {
       "2025-10-30": 20,
@@ -47,7 +47,7 @@
       "2026-08-22": 32,
       "2026-09-04": 649,
       "2026-09-03": 618,
-      "2026-10-24": 0
+      "2026-10-24": 195
     }
   },
   {
@@ -99,7 +99,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/saturn-filmfreunde.de.ico",
     "slug": "saturn-filmfreunde",
     "status": "up",
-    "uptime": "94.66%",
+    "uptime": "94.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
